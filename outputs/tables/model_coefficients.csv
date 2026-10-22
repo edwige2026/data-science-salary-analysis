@@ -1,0 +1,97 @@
+term,coefficient_log_scale
+(Intercept),-21.33144895328981
+work_year,0.016150811130437384
+experience_levelMI,0.2240250404515146
+experience_levelSE,0.43598715687845946
+experience_levelEX,0.6352048119119729
+employment_type_groupFT,0.3689697001698097
+employment_type_groupPT,0.053108564945836455
+employment_type_groupOther,-0.2461570657006633
+job_title_groupAI Developer,-0.2672566940963199
+job_title_groupAI Engineer,-0.1935574970417281
+job_title_groupAI Scientist,-0.1782249060784029
+job_title_groupAI Specialist,-0.5044975800478718
+job_title_groupAnalyst,-0.48856096913529384
+job_title_groupAnalytics Engineer,-0.2604318163131056
+job_title_groupApplied Scientist,-0.012513852087155252
+job_title_groupArchitect,-0.14619900215237092
+job_title_groupAssociate,-0.3694172067252439
+job_title_groupBackend Engineer,-0.07621684379167389
+job_title_groupBI Analyst,-0.5402039382001353
+job_title_groupBI Developer,-0.6265840552456494
+job_title_groupBI Engineer,-0.4460690931444778
+job_title_groupBusiness Analyst,-0.44729962131865514
+job_title_groupBusiness Intelligence,-0.36363920460559257
+job_title_groupBusiness Intelligence Analyst,-0.4423567307073254
+job_title_groupBusiness Intelligence Developer,-0.49654011485891153
+job_title_groupBusiness Intelligence Engineer,-0.3916540841424728
+job_title_groupCloud Engineer,-0.354850698492648
+job_title_groupComputer Vision Engineer,-0.18578211795370939
+job_title_groupConsultant,-0.4662616776660085
+job_title_groupData Analyst,-0.5437397679696973
+job_title_groupData Analytics Lead,-0.25187199606936805
+job_title_groupData Analytics Manager,-0.23119153798160688
+job_title_groupData Analytics Specialist,-0.5453400024819943
+job_title_groupData Architect,-0.27801531554065917
+job_title_groupData Developer,-0.5108436904779008
+job_title_groupData Engineer,-0.3320901214695389
+job_title_groupData Governance,-0.40603874006679397
+job_title_groupData Governance Analyst,-0.45560053031129627
+job_title_groupData Governance Lead,-0.29877678008015757
+job_title_groupData Infrastructure Engineer,-0.1304024714788892
+job_title_groupData Lead,-0.44564822272765037
+job_title_groupData Management Analyst,-0.5123024386416452
+job_title_groupData Management Specialist,-0.7454628414483276
+job_title_groupData Manager,-0.624800985502121
+job_title_groupData Modeler,-0.3689880573196645
+job_title_groupData Operations Analyst,-0.5591229774037635
+job_title_groupData Operations Engineer,-0.36693967094637664
+job_title_groupData Product Manager,-0.17574541044706743
+job_title_groupData Product Owner,-0.3956205489635534
+job_title_groupData Quality Analyst,-0.5942816439750908
+job_title_groupData Reporting Analyst,-0.8368722917022376
+job_title_groupData Scientist,-0.2701502273594024
+job_title_groupData Specialist,-0.7702765144191097
+job_title_groupDecision Scientist,-0.3120976716880884
+job_title_groupDeveloper,-0.45534861129036197
+job_title_groupDevOps Engineer,-0.3207637840716245
+job_title_groupEngineer,-0.23359691283568063
+job_title_groupEngineering Manager,0.3039911384563464
+job_title_groupFull Stack Developer,-0.47081895426544096
+job_title_groupFull Stack Engineer,-0.18191139080674854
+job_title_groupHead of Data,-0.16858078221842143
+job_title_groupInsight Analyst,-0.7230953580452442
+job_title_groupMachine Learning Engineer,-0.06882761856307221
+job_title_groupMachine Learning Researcher,-0.06009381978150812
+job_title_groupMachine Learning Scientist,-0.0848770969730256
+job_title_groupManager,-0.17156145138567722
+job_title_groupMember of Technical Staff,-0.15092754367794078
+job_title_groupMLOps Engineer,-0.252130250799496
+job_title_groupPlatform Engineer,-0.2039290387846703
+job_title_groupPower BI Developer,-0.6196846386272465
+job_title_groupProduct Analyst,-0.3011866635129198
+job_title_groupProduct Designer,-0.07414519766242061
+job_title_groupProduct Manager,-0.0527792251281453
+job_title_groupPython Developer,-0.5747213442743999
+job_title_groupQuantitative Analyst,-0.35606424856409197
+job_title_groupResearch Analyst,-0.4896951855313893
+job_title_groupResearch Assistant,-0.9729497850676714
+job_title_groupResearch Associate,-0.7885411310743207
+job_title_groupResearch Engineer,-0.029023332703479864
+job_title_groupResearch Scientist,-0.0024996394623762685
+job_title_groupRobotics Engineer,-0.35423344791316014
+job_title_groupSite Reliability Engineer,-0.07580720172670033
+job_title_groupSoftware Developer,-0.4357977840902076
+job_title_groupSoftware Development Engineer,-0.1330630530087239
+job_title_groupSoftware Engineer,-0.11669076590159136
+job_title_groupSolution Architect,-0.16177298491356645
+job_title_groupSolutions Architect,-0.12783966259687904
+job_title_groupSolutions Engineer,-0.22635588747570415
+job_title_groupStatistical Programmer,-0.43634695645368077
+job_title_groupSystems Engineer,-0.15761752921095498
+job_title_groupTechnical Lead,-0.23403725605115153
+job_title_groupOther,-0.37403039306595703
+remote_ratio50,-0.454154010500935
+remote_ratio100,-0.034872882469985066
+company_sizeM,0.05921881291393813
+company_sizeS,-0.3717075514972908

@@ -1,0 +1,16 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Local raw / processed data: download raw file locally, but do not commit it.
+data/raw/*.csv
+!data/raw/README.md
+data/processed/*.csv
+!data/processed/.gitkeep
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/

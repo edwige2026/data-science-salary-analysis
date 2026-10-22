@@ -1,0 +1,14 @@
+metric,value
+source_rows,93597
+source_columns,11
+missing_cells,0
+exact_duplicate_rows,46960
+rows_after_drop_na,93597
+rows_after_drop_na_and_exact_deduplication,46637
+distinct_job_titles,317
+salary_min_usd,15000
+salary_median_usd,139100
+salary_mean_usd,151411.82
+salary_max_usd,8e+05
+min_work_year,2020
+max_work_year,2025
